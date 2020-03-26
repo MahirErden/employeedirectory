@@ -8,4 +8,4 @@ Github hosting path is as below:
 https://mahirerden.github.io/employeedirectory/
 
 
-![Alt Text](./public/img/EmployeeDirectory.gif)
+![Alt Text](./img/EmployeeDirectory.gif)
